@@ -1,0 +1,620 @@
+[
+  {
+    "keywords": ["server info", "rates", "premium", "features"],
+    "title": "Welcome to Exodus",
+    "description": "Exodus is a no-wipe server (Oct 2021) with high rates.\n\n**Premium Benefits:**\n- Max LT +5000\n- Knowledge Chance +100%\n- Combat/Skill/Life EXP +200%\n- **Monster AP +60** (Essential for end-game)\n- Drop Rate +50%\n\n**QoL Features:**\n- Infinite Potions easier to obtain.\n- Free T4 Pets (Weight), T4 Fairy, T8 Horse via Challenge [Y] tab.\n- Agris consumes 1 point per mob.\n- Pointless drops (Black Shards, Specters) removed.",
+    "footer": "Source: Welcome to Exodus"
+  },
+  {
+    "keywords": ["leveling", "guide", "5 minute", "powerlevel", "instant level"],
+    "title": "5-Minute Leveling Guide (1-73)",
+    "description": "1. **Start:** Complete 'The Start of an Adventure' from Black Spirit.\n2. **WARNING:** Do **NOT** take the 'Exodus Instant level 49' quest yet!\n3. **Grind:** Manually grind to lvl 50. Complete '[To Level 50!] Go Beyond Your Limits'.\n4. **Grind:** Continue to lvl 61-63 manually.\n5. **Instant Jump:** NOW take 'Exodus Instant level 49' -> Jumps to lvl 73.\n6. **AFK:** Buy 'Book of Training' from Jamie Drucker in Velia to hit 99%.",
+    "footer": "Source: 5 Minute Leveling Guide"
+  },
+  {
+    "keywords": ["infinite potion", "hp potion", "mp potion", "exodus token", "hestia"],
+    "title": "Infinite Potions",
+    "description": "**Obtain:** Collect **Exodus Tokens** and exchange them for the Full HP/MP Potion at **Igor Bartali** in Velia.\n**Upgrade:** Heat Ornette's/Odore's Spirit Essence with **Primordial Dawn** (Drop: Thornwood/Shultz) to get Hestia's Spirit Essence.",
+    "footer": "Source: Main Guide / Recipes"
+  },
+  {
+    "keywords": ["flame", "ember", "primordial flame", "daemon flame", "exalted flame", "location"],
+    "title": "Flame & Ember Drop Locations",
+    "description": "**Flame/Ember of the Primordial (0.5%):** Gyfin Rhasia, Mirumok, Saunils, Desert Nagas, Thornwood, Shultz.\n**Daemon Flame/Ember (0.5%):** Abandoned Monastery, Basilisk, Aakman, Fadus.\n**Exalted Flame (0.05%):** All Exalted grind spots.\n**Flame of Frost:** Helms (5%)\n**Flame of Despair:** Rogues (5%)\n**Flame of Hongik:** Iron Mine (5%)\n**Flame of Resonance:** Manes (5%)",
+    "footer": "100 Embers = 1 Flame via Heating."
+  },
+  {
+    "keywords": ["primordial weapon", "craft weapon", "recipe", "blackstar"],
+    "title": "Recipe: Primordial Weapons",
+    "description": "Craft via **L > Manufacture**:\n\n**Main/Awakening Weapon:**\n- PEN Blackstar Weapon\n- 30,000 Caphras Stones\n- 1x Flame of the Primordial (Heat 100 Embers)\n\n**Sub-Weapon:**\n- PEN Blackstar Sub-Weapon\n- 20,000 Caphras Stones\n- 1x Flame of the Primordial\n\n**Shai Sol:**\n- PEN Artina Sol\n- 100,000 Caphras\n- 1x Flame of Primordial",
+    "footer": "Source: Primordial Gear"
+  },
+  {
+    "keywords": ["primordial armor", "fallen god", "labreska", "dahn", "ator", "recipe"],
+    "title": "Recipe: Primordial Armor",
+    "description": "Craft via **L > Manufacture**:\n\n**Requires:**\n- 1x Obliterating Fallen God Piece (Helmet/Armor/Gloves/Shoes)\n- 1x Daemon Flame (Heat 100 Daemon Embers)\n- 20,000 Caphras Stones\n\n*Note: Daemon Embers drop from Fadus, Monastery, Aakman, Basilisk.*",
+    "footer": "Source: Primordial Gear"
+  },
+  {
+    "keywords": ["primordial accessory", "stats", "ring", "earring", "belt", "necklace"],
+    "title": "Primordial Accessory Stats (Base)",
+    "description": "**Ring:** 15 AP (Monster AP +20). Drop: Saunils, Nagas.\n**Earring:** 21 AP (Monster AP +20). Drop: Thornwood, Shultz.\n**Belt:** 24 AP. Drop: Fadus, Monastery.\n**Necklace:** 40 AP. Drop: Basilisk, Aakman.",
+    "footer": "Source: Primordial Accessories"
+  },
+  {
+    "keywords": ["tome", "primordial tome", "eternal tome"],
+    "title": "Primordial & Eternal Tomes",
+    "description": "**Primordial Tome (Shultz/Gahaz/Sausans):**\n- 2 Crystal Slots\n- 1000% Combat EXP\n- PEN: All AP +25, Accuracy +50\n\n**Eternal Tome (Gyfin Rhasia):**\n- 2 Crystal Slots\n- 1000% Combat EXP\n- PEN: All DP +40, Evasion +70, DR +40",
+    "footer": "Source: Special Items"
+  },
+  {
+    "keywords": ["cup", "accessory cup", "recipe"],
+    "title": "Primordial Cup Recipes",
+    "description": "**Cup of Alastor (Necklace):** 1x Primordial Dusk + 2000 Heart of Arid Forest (Iron Mine).\n**Cup of Aethon (Earring):** 1x Primordial Dusk + 2000 Shard of Drained Night (Helms).\n**Cup of Nyctaeus (Belt):** 1x Primordial Dusk + 2000 Shard of Furious Night (Rogues).\n**Cup of Orphnaeus (Ring):** 1x Primordial Dusk + 2000 Shard of Tearful Night (Manes).",
+    "footer": "Source: Primordial Accessory Cups"
+  },
+  {
+    "keywords": ["beginner pve", "starter", "polly", "tshira", "marie", "snowflake"],
+    "title": "Beginner PVE Spots",
+    "description": "**Polly's Forest:** SP/EXP.\n**Tshira Ruins:** Caphras.\n**Marie Cave:** Memory Fragments.\n**Mediah (Helms/Rogues/Manes):** Accessory Cups & Snowflakes.\n**Exchange:** Trade Snowflakes at Igor Bartali for Manos Gear or GM Ork for Black Stones.",
+    "footer": "Source: PVE Guide for Beginners"
+  },
+  {
+    "keywords": ["exalted armor", "craft armor", "recipe", "end game"],
+    "title": "Recipe: Exalted Armor",
+    "description": "Craft via **L > Manufacture**:\n\n**Requires:**\n- 1x PEN Primordial Armor Piece\n- 1x Primordial Dawnstone (Heat 5x Primordial Twilight)\n- 1x Exalted Flame\n- 500,000 Caphras Stones\n\n*Primordial Twilight drops from All Tartaros zones.*",
+    "footer": "Source: Exalted Armor"
+  },
+  {
+    "keywords": ["exalted armor stats", "helmet", "chestplate", "gloves", "shoes"],
+    "title": "Exalted Armor Stats (Base)",
+    "description": "**Helmet:** 136 DP, HP 250, Monster AP 50, Monster DR 60, Crit Lvl 5.\n**Chestplate:** 144 DP, HP 150, Monster DR 30.\n**Gloves (Evasion):** 131 DP, Eva 76(+130), HP 150, Monster DR 30.\n**Gloves (Accuracy):** 126 DP, Acc 65, HP 150, Monster DR 30.\n**Shoes (DR):** 131 DP, DR 73(+95), HP 150, Monster DR 30.\n**Shoes (Evasion):** 129 DP, Eva 87(+94), HP 150, Monster DR 30.",
+    "footer": "Source: Exalted Armor Stats"
+  },
+  {
+    "keywords": ["exalted accessory", "stats", "ring", "earring", "belt", "necklace"],
+    "title": "Exalted Accessory Stats",
+    "description": "**Ring (Kratuga):** 21 AP, 52 Acc, +300 Stamina.\n**Earring (Cadry):** 21 AP, 62 Acc.\n**Belt (Pila Ku):** 24 AP, 60 Acc, 200LT.\n**Necklace (Sulfur):** 35 AP, 88 Acc.\n\n*Can be upgraded with Primordial Cups.*",
+    "footer": "Source: Exalted Accessories"
+  },
+  {
+    "keywords": ["weapon reform", "main weapon", "predation", "blighted", "victory", "guardian", "shadow"],
+    "title": "Main Weapon Reform Stats",
+    "description": "**Predation (Waragons):** Monster AP +60, Crit +25%.\n**Victory (Sulfur):** Combat EXP +500%, Monster AP +100.\n**Blighted (Protty):** Human Dmg +50, Crit Dmg 10%.\n**Guardian (Wolves):** DR +50, HP +250, AP -30.\n**Shadow (Star's End):** Evasion +70, HP +250, AP -40.\n\n*Recipe:* 100x Stone + 200x Crystallized Despair.",
+    "footer": "Source: PvE/PvP Weapon Reform"
+  },
+  {
+    "keywords": ["weapon reform", "awakening", "descended", "merciless", "gravity", "bloodline", "damnation"],
+    "title": "Awakening Weapon Reform Stats",
+    "description": "**Descended (Tunkuta):** Monster AP +60, Crit +25%.\n**Merciless (Ash Forest):** Hidden AP +30, Down Atk +16%, Eva -30.\n**Gravity/Celestial (Crypt):** Ignore Resist 60%, Human Dmg +25.\n**Bloodline (Pila Ku):** DR +20, Eva +20, Stamina +600.\n**Damnation (Ronaros):** Eva +60, Resist -80, DR -80.\n\n*Recipe:* 100x Stone + 200x Crystallized Despair.",
+    "footer": "Source: PvE/PvP Weapon Reform"
+  },
+  {
+    "keywords": ["weapon reform", "sub weapon", "hunter", "sniper", "isolation", "parasitic", "vampiric"],
+    "title": "Sub-Weapon Reform Stats",
+    "description": "**Hunter (Sulfur):** All Species +20, Monster AP +100, Monster DR +20.\n**Sniper (Waragons):** Acc +125, Crit +30%, Crit Dmg +15%, Resist -60%.\n**Isolation (Protty):** Eva +65, Special Eva +20%.\n**Parasitic (Tunkuta):** AP +30, Human Dmg +25, Crit Dmg 15%.\n**Vampiric (Pila Ku):** HP Recov +40/hit.\n**Eternal (Ronaros):** DR +100, HP +400.\n\n*Recipe:* 50x Stone A + 50x Stone B + 200x Despair.",
+    "footer": "Source: PvE/PvP Weapon Reform"
+  },
+  {
+    "keywords": ["exalted stone", "location", "lux", "fire", "blizzard", "death", "celestial"],
+    "title": "Exalted Stone Locations",
+    "description": "**Fire:** Sulfur Mines (Solo)\n**Water:** Protty Cave (Solo)\n**Aura:** Blood Wolves (Solo)\n**Lux:** Waragons (Party 3)\n**Fear:** Pila Ku (Solo)\n**Shadow:** Star's End (Party 2)\n**Blizzard:** Tunkuta (Party 2)\n**Earth:** Ronaros/Oluns\n**Celestial:** Crypt (Party 2)\n**Death:** Ash Forest (Party 2)",
+    "footer": "Source: Exalted Grindzone"
+  },
+  {
+    "keywords": ["crystal stats", "crystal", "custom crystals"],
+    "title": "Custom Crystal Stats & Locations",
+    "description": "**Primordial Elkarr (Saunils):** 20 Acc, 10 Monster AP.\n**Medusa's Corruption (Nagas):** 10% Crit Dmg, 10% Back Dmg.\n**Athena's Judgement (Thornwood):** 12% Monster DR, 250 HP.\n**Artemis Harmony (Fadus):** 100% PvE Resist.\n**Persephone's Revenge (Monastery):** 25 DR, 250 HP.\n**Astraea's Viper (Sausans):** 20 Acc, 5% Special Dmg.\n**Ares Harphia (Gahaz):** 25 Eva, 250 HP.\n**Visionary Elkarr (Protty):** 20 Acc, 10% Ignore Resist.\n**Eternia (Ibedor):** All AP +12, Atk Spd 12%, Acc +12, Monster AP +25.",
+    "footer": "Source: Crystal Locations"
+  },
+  {
+    "keywords": ["alchemy stone", "vell", "heart", "upgrade"],
+    "title": "Alchemy Stone Upgrades",
+    "description": "**Primordial Vell's:** Vell's Heart + Exalted Soul + 500k Caphras + Garmoth Heart + 200 Latent Aura.\n**Exalted Vell's:** Vell's Heart + Exalted Soul + 500k Caphras + Garmoth Heart + 1x Savage Heart (RBF/NW).\n**Gaia's Khan Heart:** Khan's Magic + Exalted Soul + 500k Caphras + Garmoth Heart + Protection Stone.\n\n*Exalted Soul Fragment Recipe:* 500x Crystallized Despair + 50k Magical Shards + 50k Alchemy Stone Shards.",
+    "footer": "Source: Alchemy Stones"
+  },
+  {
+    "keywords": ["terraria", "titles", "meowmere", "moon lord", "plantera", "necromancer"],
+    "title": "Terraria Crossover Titles",
+    "description": "**Meowmere (Pink Aura):** Exchange.\n**Moon Lord (Blue):** 150 Kagtum Chasers.\n**The Destroyer (Red Smoke):** 80 Frenzied Executioners.\n**Plantera (Yellow):** 35 Indomitable Golems.\n**Necromancer (Purple Fog):** 156 Gairas.\n**Terra Blade (Green Lightning):** 50 Forest Ronaros Scouts.\n**Hardmode Herald:** 50 Indomitable Golems.\n**Died to a Slime (Again):** 25 Voraros.",
+    "footer": "Titles found in Combat section."
+  },
+  {
+    "keywords": ["terraria spots", "mana", "etherian", "altar imps", "bloody monastery"],
+    "title": "Terraria Grind Spots",
+    "description": "Drops: **Etherian Mana**, **Demon Hearts**, **Mass of Pure Magic**.\n\n**Altar Imps:** High Mana/Silver.\n**Bloody Monastery:** Very High Mana/Caphras.\n**Orcs:** High Primordial Stones.\n**Biraghi Den:** Very High Silver.\n**Castle Ruins:** Medium Caphras, Very High Silver.",
+    "footer": "Source: Terraria Crossover"
+  },
+  {
+    "keywords": ["boss timer", "world boss", "spawn", "isabella", "mammore", "gmt"],
+    "title": "World Boss Timers (GMT)",
+    "description": "**Kzarka:** 04:00, 11:00, 21:15.\n**Karanda:** 06:15, 23:15.\n**Garmoth:** Tue/Thu 04:15, Sun 01:00.\n**Vell:** Wed 01:00, Sun 18:00.\n**Isabella (Custom):** Mon-Sun 09:00 & 15:15.\n**Mammore (Custom):** 04:15, 15:00, 18:00, 21:15, 22:00.",
+    "footer": "Source: Boss Time Table"
+  },
+  {
+    "keywords": ["boss loot", "isabella", "mammore", "turkey"],
+    "title": "Custom Boss Loot Tables",
+    "description": "**Isabella:** 30k Caphras, 10k Crons, Halloweenie Box (40%), Valks +500.\n**Mammore:** 50k Caphras, 20k Crons, 1k Seal of Undying, Bear Meat, Valks +500.\n**Turkey:** 80k Caphras, 500 Deep Sea Elixir, 500 Frenzy Draught, Custom Meals.",
+    "footer": "Source: Boss Loot Table"
+  },
+  {
+    "keywords": ["carrack", "ship", "mythical", "barter", "poseidon"],
+    "title": "Mythical Carrack - Poseidon",
+    "description": "**Stats:** 150% Speed/Accel, 50k LT, 4s Reload.\n**Upgrade Req:**\n- +10 Chiro's Gear (All 4)\n- 5000x Crystallized Gold Flax\n- 5000x Topaz Coated Timber\n- 5000x Shimmering Ocean Ingot\n- 100x Neralda's Frozen Tear (Goldmonts)\n- 100x Melusine's Scale (Lekrashan)\n- 100k Caphras",
+    "footer": "Source: Mythical Carrack"
+  },
+  {
+    "keywords": ["ocean stalker", "sea monster", "drop"],
+    "title": "Sea Monster: Ocean Stalker Drops",
+    "description": "**Common:** Ocean Stalker Skin (4-8).\n**Rare:** Pure Pearl Crystal (20-100), Bright Reef Piece (50-100).\n**Enhance:** Caphras (50-100), Verdant Black Stone (100-200).\n**Currency:** Crow Coin Box x100 (5-15).",
+    "footer": "Source: Sea Monster Hunting"
+  },
+  {
+    "keywords": ["hekaru", "sea monster", "drop"],
+    "title": "Sea Monster: Hekaru Drops",
+    "description": "**Common:** Hekaru's Spike (100-200).\n**Rare:** Amethyst Spike (1-2), Pure Pearl Crystal (20-40).\n**Enhance:** Caphras (10-20), Verdant Black Stone (50-100).\n**Currency:** Crow Coin Box x100 (5-15).",
+    "footer": "Source: Sea Monster Hunting"
+  },
+  {
+    "keywords": ["candidum", "sea monster", "drop"],
+    "title": "Sea Monster: Candidum Drops",
+    "description": "**Ultra Rare:** Rich Merchant Ring Piece, Shimmering Piece of Old Moon.\n**Common:** Candidum Shell (10-20).\n**Materials:** Brilliant Rock Salt (20-40), Brilliant Pearl (20-40).\n**Currency:** Crow Coin Box x100 (5-15).",
+    "footer": "Source: Sea Monster Hunting"
+  },
+  {
+    "keywords": ["lekrashan", "sea monster", "boss"],
+    "title": "Sea Monster: Lekrashan Drops",
+    "description": "**Unique:** Melusine's Scale (6-12), Tear of the Ocean (50-100).\n**Stones:** Sunset Black Stone (50), Solar/Fiery/Frosted/Lunar Black Stones.\n**Currency:** Crow Coin Box x100 (150-200).",
+    "footer": "Source: Sea Monster Hunting"
+  },
+  {
+    "keywords": ["goldmont", "battleship", "sea monster"],
+    "title": "Sea Monster: Goldmont Fleet Drops",
+    "description": "**Unique:** Neralda's Frozen Tear (3-12), Claws of the Waves.\n**Materials:** Moon Vein Flax (20-200), Deep Tide Timber (20-60).\n**Currency:** Goldmont Golden Coin (2000-3500).",
+    "footer": "Source: Sea Monster Hunting"
+  },
+  {
+    "keywords": ["gaia", "life skill", "mastery", "craft gaia"],
+    "title": "Gaia Life Skill Gear",
+    "description": "**Gaia's Clothes:** PEN Manos + 50k Caphras + 10k Black Gems (1200 Mastery).\n**Gaia's Tools:** PEN Manos + 20k Caphras + 5k Black Gems (1 sec gather time).\n**Gaia's Tome:** 50k Caphras + 1000 Gaia's Gems + 10k Ruby/Sapphire (1000 Mastery).\n*Max Mastery Bracket: 6000 (Drop rate +500%).*",
+    "footer": "Source: Lifeskill Items"
+  },
+  {
+    "keywords": ["cooking", "recipes", "imperial", "spaghetti", "sushi", "ramen"],
+    "title": "Custom Cooking Recipes",
+    "description": "**Spaghetti (AP/HP):** 5000x Coconut Pasta, Knight Rations, Red Sauce.\n**Pancakes (DP/Eva):** 5000x Calpheon Meal, Milk Tea, Honeycomb Cookies.\n**Ramen (Monster AP/EXP):** 5000x Mushroom Salad, Stir-Fried Bracken, Seafood Pasta.\n**Sushi (Life/Drop):** 5000x Margoria Meal, Smoked Fish, Couscous.\n*Add 100x Ancient Cron Spice + 50,000 Meals to craft.*",
+    "footer": "Source: Custom Meal/Draught"
+  },
+  {
+    "keywords": ["t10", "horse", "imperial training", "arduanatt"],
+    "title": "Imperial Training & T10 Arduanatt",
+    "description": "**Imperial Feathers:** Trade horses. T1=1, T8=20.\n**Custom T10 Arduanatt (White) Recipe:**\n- 3,000 Gaia's Imperial Feathers\n- 1,000,000 Orichalcum Ingots\n- 1,000,000 Adamantite Ingots\n- 5,000,000 Caphras Stones",
+    "footer": "Source: Imperial Training"
+  },
+  {
+    "keywords": ["exodus box", "gacha", "dream box", "dice box"],
+    "title": "Exodus Boxes Drops",
+    "description": "**Exodus Gacha/Dream:** Valks (+300), Primordial Accs, 9000 Caphras, Exalted Stones.\n**Purple Dice:** Caphras (1-2000), Valks (+400).\n**Orange Dice:** Cron Stones (1-4000), Valks (+400).\n**Halloweenie Box:** Valks (+5000), Exalted Stones (50-200), Terraria Buffs.",
+    "footer": "Source: Exodus Boxes"
+  },
+  {
+    "keywords": ["npc exchange", "bartali", "fughar", "snowflake", "medusa token"],
+    "title": "NPC Exchanges",
+    "description": "**Igor Bartali (Velia):** Snowflakes -> Manos Gear, Mythical Censer, Infinite Potions.\n**GM Ork:** Snowflakes -> Black Stones, Caphras.\n**Bahar:** Medusa Tokens -> Premium Outfits, Inverted Garmoth Heart.\n**Fughar:** Magical Shards -> Black Magic Crystals.",
+    "footer": "Source: NPC Exchange"
+  },
+  {
+    "keywords": ["siege", "node war", "rbf", "rewards"],
+    "title": "Siege/Node War/RBF Rewards",
+    "description": "**Siege:** 10 Trillion Silver, 1M Caphras, 500 Medals, Harmony Draughts.\n**Node War Box:** 200 Medals, 20k Crons, 500x 10kG Bars.\n**RBF Win:** 100 Red Seals, 800x 10kG Bars, 20k Pearls, 20k Crons.\n**Titles:** Stormtrooper (4k Currency), Ultimate Weapon (18k Currency).",
+    "footer": "Source: Siege/Node War/RBF"
+  },
+  {
+    "keywords": ["custom meal", "vodka", "stats"],
+    "title": "Consumable: Vodka",
+    "description": "**Stats:**\n- Human Damage +30\n- Damage Reduction +30\n- Critical Hit +10%\n- Stamina +500\n- Special Attack Damage Rate +10%",
+    "footer": "Source: Custom Meal/Draught"
+  },
+  {
+    "keywords": ["custom meal", "tequila", "stats"],
+    "title": "Consumable: Tequila",
+    "description": "**Stats:**\n- All DP +15\n- All Evasion +30%\n- Ignore Resistance +20%\n- HP +300\n- Special Attack Damage Rate +10%",
+    "footer": "Source: Custom Meal/Draught"
+  },
+  {
+    "keywords": ["custom meal", "malibu", "stats", "fishing buff", "gathering buff"],
+    "title": "Consumable: Malibu",
+    "description": "**Stats:**\n- Fishing EXP +500%\n- Gathering Drop Rate +150%\n- Mastery +300\n- Matchlock Reload Speed +20%\n- Weight +10,000LT",
+    "footer": "Source: Custom Meal/Draught"
+  },
+  {
+    "keywords": ["custom meal", "southern comfort", "stats"],
+    "title": "Consumable: Southern Comfort",
+    "description": "**Stats:**\n- Monster AP +50\n- HP +200\n- Monster DR Rate +30%\n- Damage Nullifying +30%\n- Critical Hit +30%",
+    "footer": "Source: Custom Meal/Draught"
+  },
+  {
+    "keywords": ["custom meal", "whiskey", "stats"],
+    "title": "Consumable: Whiskey",
+    "description": "**Stats:**\n- All AP +45\n- All Accuracy +25\n- Ignore Resistance +20%\n- **Debuffs:** All DR -250, HP -500",
+    "footer": "Source: Custom Meal/Draught"
+  },
+  {
+    "keywords": ["fish price", "koi", "migaloo", "dolphin", "money"],
+    "title": "Custom Fish Prices",
+    "description": "**Manta Ray:** 150 Billion\n**Pink Dolphin:** 100 Billion\n**Blue Lobster / Rainbow Fish:** 50 Billion\n**Koi / Sea Bunny / Mantis Shrimp / Green Sea Turtle:** 30 Billion\n**Migaloo:** 20 Billion\n**Betta:** 10 Billion",
+    "footer": "Source: Fishing"
+  },
+  {
+    "keywords": ["furniture", "buffs", "boss furniture"],
+    "title": "Furniture Buffs",
+    "description": "**Nouver Statue:** AP +50, All Resist +15%\n**Kutum Statue:** AP +50, Ignore Resist +15%\n**Imp Boss Knife:** AP +25\n**Goblin Chief Helm:** Accuracy +30\n**Khalk Wings:** Stamina +400\n**Muskan's Helm:** Evasion +30\n**Shadow Wolf Head:** HP +500\n**Grass Rhino Head:** DR +30",
+    "footer": "Source: Furniture Buffs"
+  },
+  {
+    "keywords": ["exalted horse gear", "recipe", "crafting"],
+    "title": "Recipe: Exalted Horse Gear",
+    "description": "**Gaia Champron/Barding/Saddle/Stirrups/Horseshoe:**\n- 1x +10 Krogdalo Piece (matching type)\n- 50,000 Caphras Stones\n- 10,000 Concentrated Magical Black Gems",
+    "footer": "Source: Exalted Horse Gear"
+  },
+  {
+    "keywords": ["boss loot", "world boss", "bundle"],
+    "title": "Loot: World Boss Bundle",
+    "description": "**100% Drop:** 20k Caphras, 10k Crons, 20k Black Stones (Wep/Arm), 5x Valks II, 1x Valks (+350), 200k Pearl Box, 5x Latent Aura.\n**Chance:** Boss Sealed Weapon Box (10%).",
+    "footer": "Source: Bosses [Loot Table]"
+  },
+  {
+    "keywords": ["boss loot", "nightmare boss", "bundle"],
+    "title": "Loot: Nightmare World Boss Bundle",
+    "description": "**100% Drop:** 40k Caphras, 20k Crons, 40k Black Stones, 10x Valks II, 2x Valks (+350), 2x 200k Pearl Box, 10x Latent Aura.\n**Chance:** 2x Boss Sealed Weapon Box (10%).",
+    "footer": "Source: Bosses [Loot Table]"
+  },
+  {
+    "keywords": ["boss loot", "isabella", "halloween"],
+    "title": "Loot: Isabella (GothMommy Morrie)",
+    "description": "**100% Drop:** 50k Crons, 30k Caphras, 1k Mem Frags, 10k Black Stones, Valks (+500).\n**Box Drops:** Morrie's Halloweenie Box (40%), Halloween Pet Box (20%).\n**Rare:** Valks +1000 (9%), Valks +7000 (1%).",
+    "footer": "Source: Bosses [Loot Table]"
+  },
+  {
+    "keywords": ["boss loot", "mammore", "bear"],
+    "title": "Loot: Mammore",
+    "description": "**100% Drop:** 20k Crons, 50k Caphras, 1k Seal of Undying, 20k Black Stones, 5k Snowflakes, 50k Bear Meat, Valks (+500).\n**Rare:** Valks +1000 (5%), Valks +2000 (4%), Taxidermied Bears (0.8%).",
+    "footer": "Source: Bosses [Loot Table]"
+  },
+  {
+    "keywords": ["boss loot", "turkey", "event"],
+    "title": "Loot: Turkey (Event Boss)",
+    "description": "**100% Drop:** 80k Caphras, 80k Black Stones, 500 Deep Sea Elixirs, 500 Frenzy Draughts, 20 Döner Kebabs, 3-5x Custom Meals (Ramen/Sushi/etc).",
+    "footer": "Source: Bosses [Loot Table]"
+  },
+  {
+    "keywords": ["dark rift", "hexe marie", "loot"],
+    "title": "Loot: Dark Rift Hexe Marie",
+    "description": "** Guaranteed:** 1x Rich Merchant Ring Piece, 10x Latent Aura, 100k Crons, 1x Exodus Dream Box, 1x Origin of Dark Hunger, 4-6 Essence of Devouring, 20k-30k Black Stones.",
+    "footer": "Source: [DR] Hexe Marie"
+  },
+  {
+    "keywords": ["crystal stats", "moon shell", "celestial shell", "neptune shell"],
+    "title": "Custom Crystal Stats (Shells)",
+    "description": "**Moon Shell (Syca):** 10 DR, 15 Eva, 100 MP/Stam, 30 HP Recov, 5% Resist.\n**Celestial Shell (Jurassic):** 5 AP, 5 Acc, 5 DR, 10 Eva, 120 HP, 100 Stam, 1% Special Dmg.\n**Neptune's Shell (Padix):** 5 Acc, 15 Monster AP/DR, 110 HP, 50 MP, 100 Stam.",
+    "footer": "Source: Crystals"
+  },
+  {
+    "keywords": ["crystal stats", "eye of the golem", "eternia"],
+    "title": "Custom Crystal Stats (Misc)",
+    "description": "**Eye of the Golem (Oluns/Hexe):** 350 HP, 35 Evasion, 5 AP.\n**Eternia Crystal (Ibedor):** All AP +12, Cast Spd +12%, Acc +12, Monster AP +25.",
+    "footer": "Source: Crystals"
+  },
+  {
+    "keywords": ["perfume", "recipe", "insight", "bracing"],
+    "title": "Exodus Perfume Recipes",
+    "description": "**Glorious Perfume:** 6x Corrupt Oil + 1x Perfume (Courage/etc) + 1x Sturdy Forest Tread.\n**Perfume of Insight:** 1x Essence of Insight + 3x Trace of Nature + 3x Monk's Branch + 3x Purified Water + 5x Powder of Crevice.\n**Bracing Perfume:** 1x Starlit Jade Breath + 1x Spirit Perfume + 1x Sturdy Forest Tread.",
+    "footer": "Source: Exodus Perfumes"
+  },
+  {
+    "keywords": ["hunting loot", "whale", "khalk", "griffon", "field boss"],
+    "title": "Loot: Hunting Field Bosses",
+    "description": "**Bosses:** Blue Whale, Khalk, Griffon.\n**Drops:**\n- 500-1000x Boss Materials (Oil/Skin/Feather)\n- 5000x Gems\n- 2000x Black Stones\n- 2000x Hards/Sharps\n- 30-50 Billion Silver (Gold Bars)\n- 20k+ Dine Mats\n- 500x Snowflakes\n- 0-50 Nebula Fragments (Celestial Sigil)",
+    "footer": "Source: Hunting"
+  },
+  {
+    "keywords": ["sniper hunting", "lions", "valencia lion"],
+    "title": "Loot: Sniper Hunting (Valencia Lions)",
+    "description": "**Drops:**\n- Higher Snowflake drop rate\n- Higher Black Gem drop rate\n- Higher EXP",
+    "footer": "Source: Hunting"
+  },
+  {
+    "keywords": ["webshop", "pets", "pet effects", "elephant", "panther"],
+    "title": "Webshop Pet Effects",
+    "description": "**Elephant (Stackable):** +10,000 LT Weight.\n**Black Panther (Non-Stack):** +100% Loot Drop.\n**Naughty Lion Cub (Stackable):** +1,000 Combat/Life EXP.\n**Bos'n Jack (Non-Stack):** +2,000 LT (Boat), Better Sea Collection.\n**Auto Gather Hedgehog T4 (Stackable):** Works with Hoe Gathering.\n**Red Orc:** +500% XP.\n**Clickety-Clack:** +50% Loot Drop.",
+    "footer": "Source: Webshop Items"
+  },
+  {
+    "keywords": ["recipe", "primordial sol", "shai", "artina sol"],
+    "title": "Recipe: Primordial Sol",
+    "description": "**Craft:** Manufacture (L)\n- PEN Artina Sol\n- 100,000 Caphras Stones\n- Flame of the Primordial\n\n*Effect:* Increased speed stats and effects from Sunset Sol.",
+    "footer": "Source: Recipes"
+  },
+  {
+    "keywords": ["recipe", "cup of earth sorrows", "earth sorrows"],
+    "title": "Recipe: Cup of Earth Sorrows",
+    "description": "**Craft:** Heating (L)\n- 30x Magical Shards\n- 50x Shard of Furious Night\n- 50x Shard of Tearful Night\n- 100x Shard of Drained Night\n- 100x Black Stone Weapon",
+    "footer": "Source: Recipes"
+  },
+  {
+    "keywords": ["recipe", "primordial memory fragment", "mem frags"],
+    "title": "Recipe: Primordial Memory Fragments",
+    "description": "**Craft:** Heating (L)\n- 50x Memory Fragments\n- 50x Black Stone (Armor)\n- 50x Black Stone (Weapon)",
+    "footer": "Source: Recipes"
+  },
+  {
+    "keywords": ["siege reward", "castle", "valencia"],
+    "title": "Loot: Siege War Rewards",
+    "description": "**10 Trillion Silver:** 10x 10kG Gold Bars.\n**Materials:** 1 Million Caphras, 100k Crons, 500 Medals, 30 Medusa Tokens.\n**Buffs:** 5x Harmony Draughts (Precision/Defence/Damage).",
+    "footer": "Source: Siege/Node War/RBF"
+  },
+  {
+    "keywords": ["node war box", "nw box", "loot"],
+    "title": "Loot: Node War Box",
+    "description": "**Contents:**\n- 200x Resplendent Medal of Honor\n- 20,000 Cron Stones\n- 500x 10,000G Gold Bars (5 Trillion Silver)\n\n*Win:* x2 Boxes | *Loss:* x1 Box.",
+    "footer": "Source: Siege/Node War/RBF"
+  },
+  {
+    "keywords": ["bulk recipe", "simple alchemy", "caphras", "black gem"],
+    "title": "Bulk Simple Alchemy Recipes",
+    "description": "**100x Black Gem:** 100x Frags + 100x BS (W/A) + 1 Water.\n**100x Conc. Black Gem:** 100x Gem + 100x Hard/Sharp + 1 Water.\n**100x Caphras:** 500x Dust + 100x BS (W/A) + 1 Water.\n\n*(Multiply by 10 for x1000 recipes, use Purified Water for x1000)*",
+    "footer": "Source: Recipes"
+  },
+  {
+    "keywords": ["ore", "new ores", "orichalcum", "adamantite", "noc rocks"],
+    "title": "New Ores & Processing",
+    "description": "**Ores:** Noc Rocks, Orichalcum Ore, Moonlight Rocks, Adamantite Ore.\n**Processing:**\n- Heating Ore -> Melted Shards\n- Heating Melted Shards -> Ingots",
+    "footer": "Source: New Ores"
+  },
+  {
+    "keywords": ["meowmere", "weapon recipe", "tamer", "kunoichi"],
+    "title": "Recipe: Meowmere Weapon",
+    "description": "**Craft:** Heating (L)\n\n**Tamer:** 10x Demon Heart, 5000x Soul of Light, 1M Orichalcum Ingots, 1M Adamantite Ingots.\n**Kunoichi:** 10x Demon Heart, 5000x Soul of Night, 1M Orichalcum Ingots, 1M Adamantite Ingots.\n\n*Note: Grants 'Meowmere' Title (Pink Aura).*",
+    "footer": "Source: Meowmere"
+  },
+  {
+    "keywords": ["etherian mana", "mana exchange", "exchange"],
+    "title": "Etherian Mana Exchange",
+    "description": "**10 Mana:** Combat/Skill EXP Coupon\n**100 Mana:** Soul of Light / Soul of Night\n**500 Mana:** Heart / Star\n**1000 Mana:** Advice of Valks (+500) / Demon Heart\n**5000 Mana:** Galaxy Pearl\n**6000 Mana:** Life / Mana Booster\n**8000 Mana:** Damage Booster\n**10000 Mana:** Kamasylve Blessing (7 Days)",
+    "footer": "Source: Mana Exchange"
+  },
+  {
+    "keywords": ["seal of the undying", "undying seal", "title exchange"],
+    "title": "Seal of the Undying Exchange",
+    "description": "**500 Seals:** Titles (Diligent Life Skiller, Touch of Midas, Clever Tracker, Perceptive Hunter, Relentless Slayer, Rhapsodist, Genius Composer).\n*Note: 'Relentless Slayer' is Dark Red. 'Im a Producer UwU' is Pink.*",
+    "footer": "Source: NPC Exchange"
+  },
+  {
+    "keywords": ["alchemy byproduct", "oil", "blood", "exchange"],
+    "title": "Alchemy Byproducts Exchange",
+    "description": "**Oils:** Exchange for Splendid Alchemy Stone, 10-50 Caphras/Black Stones/Gaia Gems/Black Gems, or 10kG Gold Bars.\n**Bloods:** Exchange for Oils, Caphras, Black Stones, Gaia Gems, or Black Gems.",
+    "footer": "Source: Alchemy"
+  },
+  {
+    "keywords": ["class changes", "balance", "updates"],
+    "title": "Class Balance Changes",
+    "description": "Class balance is updated monthly. Please check the **#class-changes** channel in Discord for specific changelogs (June, July, August, September).",
+    "footer": "Source: Class Changes"
+  },
+  {
+    "keywords": ["cosmetics", "outfits", "underwear", "webshop"],
+    "title": "Webshop Cosmetics",
+    "description": "**Underwear:** Sweet Dreams, Ceniza.\n**Outfits:** Primavera, Roselyn, Agris, Grandpa Cron's Helper/Assistant, Academia, Memento Mori, Crimson Flame, Burning Soul, Pumpkin Witch, Lovely Bloom, Yeoreum.",
+    "footer": "Source: Webshop Outfits"
+  },
+  {
+    "keywords": ["remnants of destiny", "destiny exchange", "event exchange"],
+    "title": "Exchange: Remnants of Destiny",
+    "description": "**200x:** Advice of Valks (+200)\n**300x:** Advice of Valks (+300)\n**400x:** Advice of Valks (+400)\n**500x:** Advice of Valks (+500)\n**100x:** Exodus Purple Dice Box\n**100x:** Exodus Orange Dice Box",
+    "footer": "Source: Remnants of Destiny Exchange"
+  },
+  {
+    "keywords": ["cherry blossom", "blossom exchange", "event exchange"],
+    "title": "Exchange: Cherry Blossoms",
+    "description": "**20x:** Exodus Dream Box / Exodus Gacha Box / Elixir Beginner Box\n**10x:** Box of 50 Caphras Stones\n**50x:** Elixir Intermediate Box\n**1x:** Item Collection Scroll (60 min) / Gaia's Gem / Snowflake\n**100x:** Margoria Token",
+    "footer": "Source: Cherry Blossoms"
+  },
+  {
+    "keywords": ["shakatu seal", "blue seal", "seal exchange"],
+    "title": "Exchange: Shakatu's Seal (Blue)",
+    "description": "**50x:** Horse Emblem: Tier 8 (Male)\n**1000x:** Combat/Skill EXP Exchange Coupon",
+    "footer": "Source: Shakatu Seals"
+  },
+  {
+    "keywords": ["exodus token", "weapon coupon", "merchant ring"],
+    "title": "Exchange: Exodus Tokens",
+    "description": "**20 Tokens:** Main/Sub/Awakening Weapon Exchange Coupon (7 Days)\n**5000 Tokens:** Rich Merchant's Ring Piece",
+    "footer": "Source: Exodus Tokens"
+  },
+  {
+    "keywords": ["rare buffs", "life crystal", "vital crystal", "aegis fruit", "gelatin crystal"],
+    "title": "Rare Drop Buffs (5 Hours)",
+    "description": "**Life Crystal:** All DR +100\n**Vital Crystal:** All HP +800\n**Aegis Fruit:** All Monster Damage +150\n**Arcane Crystal:** All Accuracy +80\n**Gelatin Crystal:** All Evasion +80\n*Note: These drop everywhere (Rare).* ",
+    "footer": "Source: Buffs"
+  },
+  {
+    "keywords": ["boosters", "mana booster", "life booster", "galaxy pearl"],
+    "title": "Stat Boosters (1 Hour)",
+    "description": "**Mana Booster:** Stamina +1500\n**Damage Booster:** All AP +80\n**Life Booster:** All HP +500\n**Galaxy Pearl:** Drop Rate Amount +100%\n**Rage Potion:** Crit Chance +10% (Recipe: 10x Sea Water, 1x Demon Heart, 1x Heart)",
+    "footer": "Source: Buffs"
+  },
+  {
+    "keywords": ["rosey", "oasis vendor", "shop"],
+    "title": "Vendor: Rosey (Oasis)",
+    "description": "Sells Draughts, Meals, and Crystals.\n**Stock:** Beast's/Savage/Giant's Draughts, Verdure Draught, Black Magic Crystals (Precision/Armor/Power/etc).",
+    "footer": "Source: Rosey"
+  },
+  {
+    "keywords": ["camellia loggia", "special seed", "farming"],
+    "title": "Vendor: Camellia Loggia",
+    "description": "Sells **Special Seeds** (Strawberry, Garlic, Hot Pepper, Carrot, Delotia, Sunflower, Tomato, Pepper, Onion, Pumpkin, Grape, Olive, Paprika) at Loggia Farm.",
+    "footer": "Source: Camellia Loggia"
+  },
+  {
+    "keywords": ["ibedor rates", "boss scroll", "valks drop"],
+    "title": "Ibedor Scroll Drop Rates",
+    "description": "**2.80%:** Advice of Valks (+10,000) [Dark Knight]\n**4.10%:** Advice of Valks (+5,000) [Ulutuka]\n**2.10%:** Advice of Valks (+15,000) [Oluns Golem]\n*Also drops: Mass of Pure Magic, Exalted/Primordial Stones, Caphras.*",
+    "footer": "Source: Ibedor Scroll"
+  },
+  {
+    "keywords": ["adventure box", "life box", "pve box"],
+    "title": "Black Spirit Adventure Box Contents",
+    "description": "**Life Box:** Conc. Black Gem, Courser Box, Lara's Tea, Verdure Draught, Magical Elixir, Ramen, Sushi, Caphras.\n**PVE Box:** Hard/Sharp Shards, Ancient Spirit Dust, Advice of Valks (20/40), Elixir Boxes (Beginner/Intermediate).",
+    "footer": "Source: Exodus Boxes"
+  },
+  {
+    "keywords": ["medusa token", "bahar", "exchange"],
+    "title": "Exchange: Medusa Tokens (Bahar)",
+    "description": "**150x:** Premium Outfit Sets (Burning Soul, Oblivion, Pumpkin Witch, etc.)\n**25x:** Sealed Nouverikant Helmet\n**30x:** Super Workers (Velia/Heidel/Altinova/Calpheon/Bazaar/Valencia)\n**100x:** Inverted Heart of Garmoth",
+    "footer": "Source: Bahar - Trade Manager"
+  },
+  {
+    "keywords": ["failstack", "enhancing", "accessory failstack", "dec"],
+    "title": "Enhancement Failstacks (Accessories)",
+    "description": "**PEN (V) -> SEP (VII):** 400 - 500 FS\n**OCT (VIII) -> NOV (IX):** 500 - 1,000 FS\n**NOV (IX) -> DEC (X):** 1,000 - 2,000 FS\n\n*Note: Use Advice of Valks up to +2000. Silver comes from grinding Sycraia.*",
+    "footer": "Source: End-Game Progression"
+  },
+  {
+    "keywords": ["crystal stats", "hades glory", "ahkrad", "medusa set"],
+    "title": "More Custom Crystal Stats",
+    "description": "**Hade's Glory (Sub-Wep):** Crit Hit +10%, All AP +8.\n**Glorious Crystal of Ah'krad (Awk):** Acc +3, Monster AP +7, Atk/Cast Speed +1%.\n**Medusa's Ultimate Set (2/4):**\n- *Hoom:* DR +5, HP +150, Eva +4, Acc +8, Resist +3%.\n- *Macalod:* AP +5, Stam +100, Acc +4, Combat EXP +5%.",
+    "footer": "Source: Crystals"
+  },
+  {
+    "keywords": ["hexe shoulder", "searing heart", "demeter", "rare drop"],
+    "title": "Unique Boss/Spot Drops",
+    "description": "**Hexe Shoulder Ornament:** 100 Monster AP (Hexe Sanctuary).\n**Searing Heart Piece:** (Jurassic Canyon).\n**Demeter's Resistance Crystal:** (Olun's Valley).\n**Origin of Dark Hunger:** (Hexe Sanctuary).",
+    "footer": "Source: Custom PVE Spots"
+  },
+  {
+    "keywords": ["ibedor scroll", "exchange", "night fang"],
+    "title": "Exchange: Ibedor's Scroll",
+    "description": "Exchange **5x Venomous Night Fangs** at **[GM] Ork** to receive **1x Ibedor's Scroll**.\n*Use at Crypt of Resting Thoughts.*",
+    "footer": "Source: Ibedor Scroll"
+  },
+  {
+    "keywords": ["medusa sea crystal", "boat crystal", "sea stat"],
+    "title": "Item: Medusa's Sea Crystal",
+    "description": "**Stats:** Speed/Accel/Turn/Brake +20%, Weight +12,000LT, Durability +20,000, Sea Monster Dmg x10,000.\n**Obtain:** Trade 50x [Level 5] Barter Items to Igor Bartali.",
+    "footer": "Source: Crow Coin Vendor"
+  },
+  {
+    "keywords": ["snowflake exchange", "bartali exchange", "remnant"],
+    "title": "Exchange: Igor Bartali (Snowflakes)",
+    "description": "**50x:** Remnants of the Rift\n**100x:** Manos Clothes (Cook/Alch/etc) / Rare Courser Box / Manos Tool\n**1000x:** Mythical Censer\n**500x:** Elixir Beginner Box\n**10x:** Lara's Tea / Magical Elixir / Stonetail Fodder",
+    "footer": "Source: NPC Exchange"
+  },
+  {
+    "keywords": ["undying seal", "exchange", "seal loot"],
+    "title": "Exchange: Seal of the Undying",
+    "description": "**1000x:** Advice of Valks (+500)\n**200x:** Exodus Dream Box\n**10x:** J's Special Scroll\n**1x:** Item Collection Scroll (60 min)\n**500x:** Titles (Relentless Slayer, etc.)",
+    "footer": "Source: NPC Exchange"
+  },
+  {
+    "keywords": ["exalted stone exchange", "mass of pure magic"],
+    "title": "Exchange: Exalted Stones",
+    "description": "Exchange **1x Exalted Stone** (Fire/Water/Aura/etc.) for **1x Mass of Pure Magic Bundle**.",
+    "footer": "Source: Exalted Weapon Reform Stone Exchange"
+  },
+  {
+    "keywords": ["mastery", "life skill", "bracket"],
+    "title": "Life Skill Mastery",
+    "description": "The new maximum mastery bracket is **6000**.\n**Effect (at 6000):**\n- Basic/Special/Rare Drop Rate: **+500%**\n- Basic/Special/Rare Quantity: **+500%**",
+    "footer": "Source: Mastery"
+  },
+  {
+    "keywords": ["ultimate gaia", "one in one", "life clothes", "end game life"],
+    "title": "Recipe: Ultimate Gaia's Clothes",
+    "description": "**Effect:** Combines effects of all 4 Gaia Life Clothes.\n**Recipe:** Manufacture (L)\n- PEN Gaia Craftsman's Clothes\n- PEN Gaia Hunter's Clothes\n- PEN Gaia Sailor's Clothes\n- PEN Gaia Gatherer's Clothes\n- 1,000,000 Caphras Stones",
+    "footer": "Source: Lifeskill Items"
+  },
+  {
+    "keywords": ["gaia fishing rod", "fishing tool", "recipe"],
+    "title": "Item: Gaia's Fishing Rod",
+    "description": "**Stats:** 1000 Mastery (at PEN), +10% Big Fish Rate, -20% Auto-Fish Time.\n**Recipe:** +10 Balenos Rod + 20k Caphras + 5k Conc. Black Gems.",
+    "footer": "Source: Lifeskill Items"
+  },
+  {
+    "keywords": ["gaia matchlock", "hunting tool", "recipe"],
+    "title": "Item: Gaia's Matchlock",
+    "description": "**Stats:** 1000 Mastery (at PEN), 12k Damage, +10% Crit, +10% Reload Speed.\n**Recipe:** +10 Master Matchlock + 20k Caphras + 5k Conc. Black Gems.",
+    "footer": "Source: Lifeskill Items"
+  },
+  {
+    "keywords": ["gaia riding crop", "training tool", "recipe"],
+    "title": "Item: Gaia's Riding Crop",
+    "description": "**Stats:** 1000 Mastery.\n**Recipe:** PEN Manos Riding Crop + 50k Caphras + 10k Conc. Black Gems.",
+    "footer": "Source: Lifeskill Items"
+  },
+  {
+    "keywords": ["random reward box", "bsa box"],
+    "title": "Loot: Black Spirit Random Reward Box",
+    "description": "**Contents:** Combined loot table of both the Adventure PVE Box and Adventure Life Box (1-10 items).\n*Obtained from Black Spirit Adventure.*",
+    "footer": "Source: Exodus Boxes"
+  },
+  {
+    "keywords": ["margoria open", "goldmont boat", "guild drop"],
+    "title": "Loot: Margoria Open Sea (Guild)",
+    "description": "**Large/Medium/Small Goldmont Boats:**\n- [Guild] Goldmont Pirate Golden Goblet (30-45)\n- [Guild] Goldmont Pirate Golden Coin (30-45)\n- Crow Coin Box x100 (5-35)\n- Moon Vein Flax Fabric (Medium Boat only)",
+    "footer": "Source: Margoria Open"
+  },
+  {
+    "keywords": ["imperial feather", "horse trade", "tier"],
+    "title": "Imperial Feather Exchange Rates",
+    "description": "**Tier 1:** 1 Feather\n**Tier 2:** 2 Feathers\n**Tier 3:** 3 Feathers\n**Tier 4:** 4 Feathers\n**Tier 5:** 5 Feathers\n**Tier 6:** 10 Feathers\n**Tier 7:** 15 Feathers\n**Tier 8:** 20 Feathers",
+    "footer": "Source: Imperial Training"
+  },
+  {
+    "keywords": ["barter info", "refresh", "exchange limit"],
+    "title": "Barter Mechanics",
+    "description": "- **Refresh Cost:** 1 Point per refresh.\n- **Max Exchanges:** 12 Exchanges per item.\n- **Bonus:** Crow Coins are buffed from exchange.",
+    "footer": "Source: Barter"
+  },
+  {
+    "keywords": ["terraria title", "no death no problem"],
+    "title": "Title: No Death, No Problem",
+    "description": "**Requirement:** Kill 40 Gairas.\n*Part of the Terraria Crossover events.*",
+    "footer": "Source: Terraria Titles"
+  },
+  {
+    "keywords": ["custom tools", "gathering tool", "durability"],
+    "title": "Obtaining Custom Gathering Tools",
+    "description": "High durability tools are available via:\n1. **Loyalty Store**\n2. **Witch's Delicacy Exchange**\n3. **Mysterious Catalyst Exchange** (at Fughar)\n*Note: Exchange broken tools at Fughar [GM Ork].*",
+    "footer": "Source: Cooking"
+  },
+  {
+    "keywords": ["terraria titles", "hardmode herald", "fishing title", "slime title"],
+    "title": "More Terraria Titles",
+    "description": "**Hardmode Herald:** Kill 50 Indomitable Golems.\n**99% Fishing, 1% Fighting:** Fish 8 Plump Pufferfish.\n**Died to a Slime (Again):** Kill 25 Voraros.\n**No Death, No Problem:** Kill 40 Gairas.",
+    "footer": "Source: Terraria Titles"
+  },
+  {
+    "keywords": ["resplendent medal", "medal exchange", "splendid stone"],
+    "title": "Exchange: Resplendent Medal of Honor",
+    "description": "**1x:** Gold Bar 10,000G (100 Billion)\n**200x:** Splendid Alchemy Stone of Destruction\n**200x:** Splendid Alchemy Stone of Protection\n**200x:** Splendid Alchemy Stone of Life",
+    "footer": "Source: Siege/Node War/RBF"
+  },
+  {
+    "keywords": ["siege salary", "title reward", "stormtrooper"],
+    "title": "Siege Title Rewards (Weekly)",
+    "description": "**Stormtrooper:** 4000 Currency\n**Special Force Commander:** 8000 Currency\n**Ultimate Weapon:** 18000 Currency\n*Note: Write a ticket in Discord with proof to claim.*",
+    "footer": "Source: Siege/Node War/RBF"
+  },
+  {
+    "keywords": ["exalted enhance", "enhancing cost", "primordial stone cost"],
+    "title": "Exalted Gear Enhancement Costs",
+    "description": "Cost in **Exalted Primordial Stones**:\n**PRI:** 700 Stones\n**DUO:** 900 Stones\n**TRI:** 1200 Stones\n**TET:** 1500 Stones\n**PEN:** 2000 Stones",
+    "footer": "Source: Enhancing to PEN"
+  },
+  {
+    "keywords": ["horse gear", "mount skin", "webshop"],
+    "title": "Webshop Mount Skins",
+    "description": "**Doom:** Flame Knight / Hell Knight (Mythical)\n**Dine:** Terra Knight / Tidal Knight (Mythical)\n**Arduanatt:** Sky Knight / Frost Knight (Mythical)",
+    "footer": "Source: Webshop Mount Skins"
+  }
+  ]
